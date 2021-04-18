@@ -5,6 +5,9 @@ The Blackjack Soldering Kit is a kit to help begginers learn to solder. It inclu
 
 When no longer needed, the 328P microcontroller can be harvested and re-used for other projects.
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/handheld-blackjack.html).
+
 ## Current Release
 Version 1.1
 
